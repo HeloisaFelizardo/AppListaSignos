@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "AppListaSignos",
+    "slug": "AppListaSignos",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "AppListaSignos"
+}
